@@ -1,0 +1,12 @@
+streamlit==0.66.0
+Pillow
+numpy
+opencv-python
+pyrebase4
+streamlit-drawable-canvas
+pandas
+tensorflow
+keras
+wit
+dataclasses
+matplotlib
