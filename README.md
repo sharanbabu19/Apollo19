@@ -3,6 +3,6 @@
 <b><u>Youtube Demo Link</u></b>: https://www.youtube.com/watch?v=JgVvyMkaiWw <br><br>
 A web and mobile application to help patients and doctors effectively fight against skin cancer.
 
-# Steps to run the program:
+# Steps to run the web application:
 
 ![''](https://github.com/sharanbabu19/skinhack/blob/master/carbon%20(1).png)
